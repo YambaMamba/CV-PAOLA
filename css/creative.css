@@ -75,21 +75,21 @@ body {
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
   background-color: #fff;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Helvetica Neue', 'Open Sans',  Arial, sans-serif;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s; }
   #mainNav .navbar-brand {
     font-weight: 1000;
-    font-size: 1.7rem;
+    font-size: 1.2rem;
     text-transform: uppercase;
     color: black;
-    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
+    font-family: 'Helvetica Neue', 'Open Sans', , Arial, sans-serif; }
     #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: black; }
   #mainNav .navbar-nav > li.nav-item > a.nav-link,
   #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
-    font-size: 1.7rem;
+    font-size: 1rem;
     font-weight: 700;
     text-transform: uppercase;
     color: #212529; }
@@ -199,7 +199,7 @@ header.masthead {
       .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
       .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
         padding: 0 15px;
-        font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
+        font-family: 'Helvetica Neue', 'Open Sans', Arial, sans-serif; }
       .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
         font-size: 18px;
         font-weight: 600;
